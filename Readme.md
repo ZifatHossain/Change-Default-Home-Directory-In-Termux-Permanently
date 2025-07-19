@@ -1,5 +1,10 @@
 # Change-Default-Home-Directory-In-Termux-Permanently
 
+## First
+```
+pwd
+```
+
 ## Getting Storage Permission
 
 ```
